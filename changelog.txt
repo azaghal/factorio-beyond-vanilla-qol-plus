@@ -3,5 +3,7 @@ Version: 999.999.999
 Date: 9999-99-99
   Changes:
   Features:
-    - Based on top of Beyond Vanilla - QoL modpack.
+    - Based off "Beyond Vanilla - QoL" modpack.
+    - Construction
+      - Automatically mark depleted miners for deconstruction (via "Auto Deconstruct")
   Bugfixes:

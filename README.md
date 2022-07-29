@@ -28,6 +28,13 @@ Features
 Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com/mod/beyond-vanilla-qol) modpack. Please make sure to check out the feature list there as well.
 
 
+### Construction
+
+-   Automatically mark depleted miners for deconstruction ([Auto Deconstruct](https://mods.factorio.com/mod/AutoDeconstruct))
+
+    > Stop those idle miners from just sitting around and wasting energy. Uranium ore miners get replaced with pipes (to keep the sulfuric acid flowing).
+
+
 Contributions
 -------------
 

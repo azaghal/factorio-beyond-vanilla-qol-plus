@@ -8,6 +8,7 @@
     "factorio_version": "1.1",
     "dependencies": [
         "? base >= 1.1.61",
-        "beyond-vanilla-qol >= 1.3.0"
+        "beyond-vanilla-qol >= 1.3.0",
+        "AutoDeconstruct >= 0.3.3"
     ]
 }
