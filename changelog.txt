@@ -6,4 +6,5 @@ Date: 9999-99-99
     - Based off "Beyond Vanilla - QoL" modpack.
     - Construction
       - Automatically mark depleted miners for deconstruction (via "Auto Deconstruct")
+      - Early-game constructions bots (via "Early Construction")
   Bugfixes:

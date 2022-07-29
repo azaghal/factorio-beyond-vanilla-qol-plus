@@ -34,6 +34,10 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 
     > Stop those idle miners from just sitting around and wasting energy. Uranium ore miners get replaced with pipes (to keep the sulfuric acid flowing).
 
+-   Early-game constructions bots ([Early Construction](https://mods.factorio.com/mod/early_construction))
+
+    > Start off with early-game single-use construction bots. They might not be cheap, but it beats constructing everything by hand.
+
 
 Contributions
 -------------
