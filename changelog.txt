@@ -1,0 +1,7 @@
+---------------------------------------------------------------------------------------------------
+Version: 999.999.999
+Date: 9999-99-99
+  Changes:
+  Features:
+    - Based on top of Beyond Vanilla - QoL modpack.
+  Bugfixes:
