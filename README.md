@@ -72,6 +72,13 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
     > Scans for ghosts in logistic network, and outputs items required for construction as signals. **NOTE:** In order to avoid lowering game performance, ghost scanner combinator is limited to processing a maximum of 1000 ghost entities at a time.
 
 
+### Transportation
+
+-   Nuclear reactor-powered locomotive ([Nuclear Locomotives](https://mods.factorio.com/mod/Nuclear%20Locomotives))
+
+    > Faster and more powerful locomotive, powered by uranium fuel cells. **NOTE:** Original mod recipe has been changed to require nuclear reactor as an ingredient, making it substantially more expensive. This has been done for both immersion and balancing purposes.
+
+
 Contributions
 -------------
 
