@@ -67,6 +67,10 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 
     > Use decorative text plates of various designs to mark and organise the factory, or name the outposts.
 
+-   Output required construction items as signals ([Ghost Scanner](https://mods.factorio.com/mod/GhostScanner))
+
+    > Scans for ghosts in logistic network, and outputs items required for construction as signals. **NOTE:** In order to avoid lowering game performance, ghost scanner combinator is limited to processing a maximum of 1000 ghost entities at a time.
+
 
 Contributions
 -------------

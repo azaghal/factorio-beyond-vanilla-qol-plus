@@ -14,4 +14,5 @@ Date: 9999-99-99
       - Access power generation values via circuit networks (via "Power Combinator")
     - Planning/organisation
       - Small, medium, and large display plates for marking the factory (via "Industrial Display Plates")
+      - Output required construction items as signals (via "Ghost Scanner")
   Bugfixes:

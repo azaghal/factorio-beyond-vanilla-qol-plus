@@ -11,6 +11,7 @@
         "beyond-vanilla-qol >= 1.3.0",
         "AutoDeconstruct >= 0.3.3",
         "early_construction >= 0.9.3",
+        "GhostScanner >= 1.6.5",
         "IndustrialDisplayPlates >= 1.1.4",
         "nixie-tubes >= 1.1.3",
         "Portable_power >= 1.1.0",
