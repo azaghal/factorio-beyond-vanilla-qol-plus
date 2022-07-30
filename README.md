@@ -63,6 +63,10 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 
     > Mark out parts of factory with clearly visible display plates that show item and signal icons. Better visibility alternative to using combinators for designating inputs/outputs, or chest contents for the early-game mall. **WARNING:** Due to modding API limitations, updating existing blueprints will not preserve industrial plate information - a new blueprint needs to be created instead.
 
+-   Decorative text plates ([Text Plates](https://mods.factorio.com/mod/textplates))
+
+    > Use decorative text plates of various designs to mark and organise the factory, or name the outposts.
+
 
 Contributions
 -------------
