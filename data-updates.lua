@@ -21,3 +21,28 @@ for recipe, overrides in pairs(recipe_overrides) do
         data.raw.recipe[recipe].ingredients = overrides.ingredients
     end
 end
+
+
+-- Control overrides
+-- =================
+
+local control_overrides = {
+    ['Shortcuts-ick'] = {
+        -- Vehicle Wagon 2 winch (for loading vehicles onto the wagon).
+        { name = "winch", key_sequence = "ALT + W", alternative_key_sequence = "" }
+    }
+}
+
+-- Piggy-back off of the base mod setting.
+if settings.startup["beyond-vanilla-qol-enable-modpack-controls-configuration"] then
+    for mod, controls in pairs(control_overrides) do
+        for _, control in ipairs(controls) do
+            if data.raw["custom-input"][control.name] then
+                data.raw["custom-input"][control.name].key_sequence = control.key_sequence
+                data.raw["custom-input"][control.name].alternative_key_sequence = control.alternative_key_sequence
+            else
+                print("[ERROR] (beyond-vanilla-qol) Unknown control, skipping: " .. mod .. "/" .. control.name)
+            end
+        end
+    end
+end

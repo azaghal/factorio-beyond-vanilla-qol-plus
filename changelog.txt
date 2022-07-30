@@ -18,4 +18,5 @@ Date: 9999-99-99
     - Transportation
       - Nuclear reactor-powered locomotive (via "Nuclear Locomotives")
       - Lightweight plane for reconnaissance and exploration (via "Raven")
+      - Pull vehicles along with a train (via "Vehicle Wagon 2")
   Bugfixes:

@@ -39,6 +39,12 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
     > Start off with early-game single-use construction bots. They might not be cheap, but it beats constructing everything by hand.
 
 
+### Controls
+
+-   [OPTIONAL] Modpack controls configuration
+
+    > If modpack controls configuration has been enabled for the (dependant) *Beyond Vanilla - QoL* modpack, some additional controls are set-up by this modpack as well.
+
 ### Equipment
 
 -   Additional personal armor and power production options ([Portable Power](https://mods.factorio.com/mod/Portable_power), [Simply Power Armor MK3](https://mods.factorio.com/mod/simply-power-armor-mk3))
@@ -81,6 +87,10 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 -   Lightweight plane for reconnaissance and exploration ([Raven](https://mods.factorio.com/mod/Raven))
 
     > Small lightweight flying vehicle useful for aerial exploration. Requires runway to take off and land.
+
+-   Pull vehicles along with a train ([Vehicle Wagon 2](https://mods.factorio.com/mod/VehicleWagon2))
+
+    > Load vehicle onto a wagon, and pull them along with personal train. Never leave a base without a fully kitted-out, loaded-up car or tank again.
 
 
 Contributions
