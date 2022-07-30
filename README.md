@@ -39,6 +39,13 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
     > Start off with early-game single-use construction bots. They might not be cheap, but it beats constructing everything by hand.
 
 
+### Equipment
+
+-   Additional early-game and late-game power production equipment ([Portable Power](https://mods.factorio.com/mod/Portable_power))
+
+    > Early-game burner-based power generator that provides alternative to solar panels (just don't forget to refuel it), and a late-game portable nuclear reactor that can satisfy the needs of power-hungry bot construction. Usable both within personal armor and vehicles (spidertrons).
+
+
 Contributions
 -------------
 

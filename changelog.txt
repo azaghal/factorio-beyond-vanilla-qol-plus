@@ -7,4 +7,6 @@ Date: 9999-99-99
     - Construction
       - Automatically mark depleted miners for deconstruction (via "Auto Deconstruct")
       - Early-game constructions bots (via "Early Construction")
+    - Equipment
+      - Additional early-game and late-game power production equipment (via "Portable Power")
   Bugfixes:
