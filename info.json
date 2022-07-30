@@ -17,6 +17,7 @@
         "Nuclear Locomotives >= 1.2.8",
         "Portable_power >= 1.1.0",
         "power-combinator >= 5.3.0",
+        "Raven >= 0.1.12",
         "simply-power-armor-mk3 >= 1.0.4",
         "textplates >= 0.6.9"
     ]

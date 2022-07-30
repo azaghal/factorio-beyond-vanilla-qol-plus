@@ -78,6 +78,10 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 
     > Faster and more powerful locomotive, powered by uranium fuel cells. **NOTE:** Original mod recipe has been changed to require nuclear reactor as an ingredient, making it substantially more expensive. This has been done for both immersion and balancing purposes.
 
+-   Lightweight plane for reconnaissance and exploration ([Raven](https://mods.factorio.com/mod/Raven))
+
+    > Small lightweight flying vehicle useful for aerial exploration. Requires runway to take off and land.
+
 
 Contributions
 -------------

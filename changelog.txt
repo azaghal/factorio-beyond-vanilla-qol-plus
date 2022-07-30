@@ -17,4 +17,5 @@ Date: 9999-99-99
       - Output required construction items as signals (via "Ghost Scanner")
     - Transportation
       - Nuclear reactor-powered locomotive (via "Nuclear Locomotives")
+      - Lightweight plane for reconnaissance and exploration (via "Raven")
   Bugfixes:
