@@ -52,6 +52,10 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 
     > Keep track of signals provided by your circuit networks through use of stylish displays.
 
+-   Access power generation values via circuit networks ([Power Combinator](https://mods.factorio.com/mod/power-combinator))
+
+    > Access information about power production and consumption, and utilise these values in circuit network. Cut-off parts of the base if power production is too low, or generate alerts if power production is insufficient.
+
 
 Contributions
 -------------

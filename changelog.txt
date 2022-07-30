@@ -11,4 +11,5 @@ Date: 9999-99-99
       - Additional personal armor and power production options (via "Portable Power", "Simply Power Armor MK3")
     - Miscellaneous
       - Dynamic displays for circuit network signals (via "Nixie Tubes")
+      - Access power generation values via circuit networks (via "Power Combinator")
   Bugfixes:
