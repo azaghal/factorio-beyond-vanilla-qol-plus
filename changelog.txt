@@ -12,6 +12,7 @@ Date: 9999-99-99
     - Miscellaneous
       - Dynamic displays for circuit network signals (via "Nixie Tubes")
       - Access power generation values via circuit networks (via "Power Combinator")
+      - Additional lighting options beyond small lamps
     - Planning/organisation
       - Small, medium, and large display plates for marking the factory (via "Industrial Display Plates")
       - Output required construction items as signals (via "Ghost Scanner")

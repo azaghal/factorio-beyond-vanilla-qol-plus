@@ -62,6 +62,10 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 
     > Access information about power production and consumption, and utilise these values in circuit network. Cut-off parts of the base if power production is too low, or generate alerts if power production is insufficient.
 
+-   Additional lighting options beyond small lamps ([Larger Lamps](https://mods.factorio.com/mod/DeadlockLargerLamp), [Solar Lamp](https://mods.factorio.com/mod/Solar-Lamp))
+
+    > Light up your base like never-before. From early-game burner-based copper lamp, over large and floor lamps, and all the way to eco-friendly (minus all the pollution requires to produce them...) solar lamps.
+
 
 ### Planning/organisation
 
