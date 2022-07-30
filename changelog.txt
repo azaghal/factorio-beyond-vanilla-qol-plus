@@ -12,4 +12,6 @@ Date: 9999-99-99
     - Miscellaneous
       - Dynamic displays for circuit network signals (via "Nixie Tubes")
       - Access power generation values via circuit networks (via "Power Combinator")
+    - Planning/organisation
+      - Small, medium, and large display plates for marking the factory (via "Industrial Display Plates")
   Bugfixes:

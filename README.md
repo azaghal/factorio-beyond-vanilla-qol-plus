@@ -57,6 +57,13 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
     > Access information about power production and consumption, and utilise these values in circuit network. Cut-off parts of the base if power production is too low, or generate alerts if power production is insufficient.
 
 
+### Planning/organisation
+
+-   Small, medium, and large display plates for marking the factory ([Industrial Display Plates](https://mods.factorio.com/mod/IndustrialDisplayPlates))
+
+    > Mark out parts of factory with clearly visible display plates that show item and signal icons. Better visibility alternative to using combinators for designating inputs/outputs, or chest contents for the early-game mall. **WARNING:** Due to modding API limitations, updating existing blueprints will not preserve industrial plate information - a new blueprint needs to be created instead.
+
+
 Contributions
 -------------
 
