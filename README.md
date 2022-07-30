@@ -46,6 +46,13 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
     > Early-game burner-based power generation, late-game portable nuclear reactor, and late-game power armor with increased equipment grid size. Makes remote base construction ever so less tedious.
 
 
+### Miscellaneous
+
+-   Dynamic displays for circuit network signals ([Nixie Tubes](https://mods.factorio.com/mod/nixie-tubes))
+
+    > Keep track of signals provided by your circuit networks through use of stylish displays.
+
+
 Contributions
 -------------
 

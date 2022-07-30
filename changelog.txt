@@ -9,4 +9,6 @@ Date: 9999-99-99
       - Early-game constructions bots (via "Early Construction")
     - Equipment
       - Additional personal armor and power production options (via "Portable Power", "Simply Power Armor MK3")
+    - Miscellaneous
+      - Dynamic displays for circuit network signals (via "Nixie Tubes")
   Bugfixes:
