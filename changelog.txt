@@ -8,5 +8,5 @@ Date: 9999-99-99
       - Automatically mark depleted miners for deconstruction (via "Auto Deconstruct")
       - Early-game constructions bots (via "Early Construction")
     - Equipment
-      - Additional early-game and late-game power production equipment (via "Portable Power")
+      - Additional personal armor and power production options (via "Portable Power", "Simply Power Armor MK3")
   Bugfixes:

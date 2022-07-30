@@ -41,9 +41,9 @@ Listed features build on top of [Beyond Vanilla - QoL](https://mods.factorio.com
 
 ### Equipment
 
--   Additional early-game and late-game power production equipment ([Portable Power](https://mods.factorio.com/mod/Portable_power))
+-   Additional personal armor and power production options ([Portable Power](https://mods.factorio.com/mod/Portable_power), [Simply Power Armor MK3](https://mods.factorio.com/mod/simply-power-armor-mk3))
 
-    > Early-game burner-based power generator that provides alternative to solar panels (just don't forget to refuel it), and a late-game portable nuclear reactor that can satisfy the needs of power-hungry bot construction. Usable both within personal armor and vehicles (spidertrons).
+    > Early-game burner-based power generation, late-game portable nuclear reactor, and late-game power armor with increased equipment grid size. Makes remote base construction ever so less tedious.
 
 
 Contributions
