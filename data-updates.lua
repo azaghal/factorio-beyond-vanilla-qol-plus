@@ -41,7 +41,7 @@ if settings.startup["beyond-vanilla-qol-enable-modpack-controls-configuration"] 
                 data.raw["custom-input"][control.name].key_sequence = control.key_sequence
                 data.raw["custom-input"][control.name].alternative_key_sequence = control.alternative_key_sequence
             else
-                print("[ERROR] (beyond-vanilla-qol) Unknown control, skipping: " .. mod .. "/" .. control.name)
+                print("[ERROR] (beyond-vanilla-qol-plus) Unknown control, skipping: " .. mod .. "/" .. control.name)
             end
         end
     end

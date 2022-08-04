@@ -1,7 +1,6 @@
 ---------------------------------------------------------------------------------------------------
-Version: 999.999.999
-Date: 9999-99-99
-  Changes:
+Version: 1.0.0
+Date: 2022-08-04
   Features:
     - Based off "Beyond Vanilla - QoL" modpack.
     - Construction
@@ -20,4 +19,3 @@ Date: 9999-99-99
       - Nuclear reactor-powered locomotive (via "Nuclear Locomotives")
       - Lightweight plane for reconnaissance and exploration (via "Raven")
       - Pull vehicles along with a train (via "Vehicle Wagon 2")
-  Bugfixes:
