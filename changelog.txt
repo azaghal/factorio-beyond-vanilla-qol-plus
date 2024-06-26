@@ -2,6 +2,16 @@
 Version: 999.999.999
 Date: 9999-99-99
   Changes:
+    - Dependency updates:
+      - Base game (to version 1.1.107)
+      - Beyond Vanila - QoL
+      - Auto Deconstruct
+      - Larger Lamps
+      - Ghost Scanner
+      - Nixie Tubes
+      - Power Combinator
+      - Text Plates
+      - Vehicle Wagon 2
   Features:
   Bugfixes:
 ---------------------------------------------------------------------------------------------------
